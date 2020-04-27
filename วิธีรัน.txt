@@ -1,0 +1,4 @@
+ใช้ 
+- npm install
+- nodemon index.js
+
